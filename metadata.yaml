@@ -1,5 +1,5 @@
 _repo: The-Wishing-Horse-of-Oz_55851
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Neill, John R. (John Rea)
@@ -26,6 +26,9 @@ contributor:
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
     wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+covers:
+- cover_type: archival
+  image_path: 55851-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Ruth Plumly
@@ -34,6 +37,8 @@ creator:
     gutenberg_agent_id: '34661'
     url: http://www.gutenberg.org/2009/agents/34661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55851#The-Wishing-Horse-of-Oz
 gutenberg_issued: '2017-10-30'
 gutenberg_type: Text
 identifiers:
